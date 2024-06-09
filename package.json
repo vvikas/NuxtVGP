@@ -44,7 +44,8 @@
 	"dependencies": {
 		"@pinia/nuxt": "^0.5.1",
 		"sass": "^1.68.0",
-		"vuetify": "^3.3.23"
+		"vuetify": "^3.3.23",
+		"tslib": "^2.6.3"
 	},
 	"version": "2.0.0"
 }
