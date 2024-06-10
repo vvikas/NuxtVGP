@@ -1,7 +1,7 @@
 {
 	"private": true,
 	"scripts": {
-		"check-tslib": "ls /var/task/node_modules/tslib || echo 'tslib not found'",
+		"check-tslib": "pwd",
 		"prepare": "husky install",
 		"build": "nuxt build",
 		"dev": "nuxt dev",
